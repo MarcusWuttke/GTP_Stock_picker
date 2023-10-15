@@ -1,0 +1,30 @@
+Forum/PostParser.java
+ Forum.PostParser
+Forum/ForumType.java
+ Forum.ForumType
+Stocks/JsonModel/TimeSeries.java
+ Stocks.JsonModel.TimeSeries
+Stocks/StockPriceService.java
+ Stocks.StockPriceService
+Stocks/JsonModel/StockPriceHistory.java
+ Stocks.JsonModel.StockPriceHistory
+Forum/Post.java
+ Forum.Post
+Database/DatabaseConnector.java
+ Database.DatabaseConnector
+Stocks/JsonModel/StockPrice.java
+ Stocks.JsonModel.StockPrice
+ChatGpt/TextScore.java
+ ChatGpt.TextScore
+Stocks/JsonModel/MetaData.java
+ Stocks.JsonModel.MetaData
+Runner.java
+ Runner
+Forum/ForumReader.java
+ Forum.ForumReader
+ChatGpt/ChatGptService.java
+ ChatGpt.ChatGptService
+Forum/PostHandler.java
+ Forum.PostHandler
+Main.java
+ Main

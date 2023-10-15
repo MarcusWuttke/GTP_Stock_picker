@@ -1,0 +1,27 @@
+I want you to help me evaluate texts related to stocks.
+
+Further below I will paste a text in Swedish or English that should be analyzed.
+
+I want you to help me evaluate 2 things:
+
+1. Does the text contain any information that relates to the performance or reputation of the company, and in turn could relate to changes in the share price of the company? 
+I want you to rate how relevant the information in the text is between 0 to 10, where 0 = no relevance for the stock price and 10 = strong relevance for the stock price.
+
+2. Does the text have positive or negative meaning related to the company? 
+I want you to rate this between -10 to 10 where -10 is very negative, 0 i neutral and 10 is strongly positive.
+
+In your answer you should only include these 2 numbers with a comma as a separator. Don't write an explaination, just write the numbers.
+Example response on a text with high relevance for the stock price and the information being fairly negative would be: "8,-5"
+
+The rest of the promt is the text I want you to evaluate:
+
+
+
+
+
+
+ChatGpts egen förslag på promt: 
+"I want you to help me evaluate texts related to stocks. 
+Please rate the information's relevance to the stock price on a scale of 0 to 10 (0 = no relevance, 10 = strong relevance) 
+and the sentiment (positive or negative) on a scale of -10 to 10 (-10 = very negative, 0 = neutral, 10 = strongly positive). 
+Your response should only contain these two numbers separated by a comma. Example response: '8,-5'."

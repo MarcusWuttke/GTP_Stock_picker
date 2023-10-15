@@ -1,0 +1,12 @@
+Todo's
+
+
+- Få med tab och new lines i texter för att skilja på ord till chatgpt
+- Parse ChatGpts response till objekt
+- Rensa ut korta texter som inte är relevanta
+- Sätt max på texter för att inte gå över ChatGpts max input lenght
+- Hitta API för aktiepriser på Svenska aktier
+- Scrapea från andra forum / från artiklar eller liknande
+- Gör en köp/sälj strategi och spara trades i ny tabell
+- Simulera resultat av strategi
+- Gör en UI
