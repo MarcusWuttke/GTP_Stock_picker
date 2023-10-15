@@ -10,7 +10,7 @@ import java.util.List;
 
 public class ChatGptService {
 
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "";
     private final DatabaseConnector databaseConnector;
 
     public ChatGptService(){
